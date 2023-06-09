@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.head1 {
+  float: right;
+  width: 40%;
+  margin-left: 196px;
+  font-size: 39px;
+  margin-top: -21px;
+}
+.head1 {
+  float: left;
+}
+.tf {
+  float: left;
+}
+li a {
+  text-decoration: none;
+
+  color: black;
+  padding: 8px 16px;
+}
+.ts {
+  margin-top: 41px;
+
+  list-style-type: none;
+  width: 100%;
+  background-color: blanche dalmond;
+}
+.image {
+  clear: both;
+}
+.image1 {
+  position: relative;
+}
+.para {
+  position: absolute;
+
+  top: 195px;
+  left: 501px;
+}
+.image2 {
+  position: absolute;
+  padding: 10px;
+  width: 13%;
+  top: 296px;
+  left: 552px;
+  background-color: black;
+  color: aliceblue;
+}
+.layer {
+  margin-left: 605px;
+  margin-top: -177px;
+}
+.go {
+  margin-left: 915px;
+  margin-top: -177px;
+}
+.cont {
+  margin-top: 71px;
+  text-align: center;
+  background-color: lightgray;
+}
+.second {
+  display: block;
+  background-color: lightgray;
+  width: 86%;
+  margin-top: 123px;
+  margin-left: 167px;
+  padding-left: 34px;
+}
+.third {
+  background-color: lightgray;
+  width: 83%;
+  margin-top: 122px;
+  margin-left: 68px;
+
+  padding-left: 34px;
+}
+.first {
+  float: left;
+  width: 22%;
+}
+.img1 {
+  margin-top: 122px;
+  margin-left: 128px;
+  height: 256px;
+  width: 200px;
+}
+.img3 {
+  width: 200px;
+
+  height: 256px;
+  margin-top: 122px;
+  margin-left: 21px;
+}
+.fouth {
+  float: right;
+  width: 52%;
+}
+.hard {
+  clear: both;
+}
+.foot {
+  background-color: lightgrey;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  list-style-type: none;
+}
+ul {
+  list-style: none;
+}
